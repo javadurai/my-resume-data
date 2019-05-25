@@ -143,5 +143,23 @@
   "achievements": [
     "Proved event-organizing skills by taking responsibility in team events.",
     "Got many spot awards during the project development."
+  ],
+  "social": [
+    {
+      "type":"facebook",
+      "url":"https://www.facebook.com/jabadurai.s"
+    },
+    {
+      "type":"twitter",
+      "url":"https://twitter.com/jabadurai"
+    },
+    {
+      "type":"linked-in",
+      "url":"https://www.linkedin.com/in/jabadurai-selvaraj-9a944b4b"
+    },
+    {
+      "type":"envelope",
+      "url":"mailto:jabadurai.s@gmail.com"
+    }
   ]
 }
