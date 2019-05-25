@@ -1,52 +1,130 @@
 {
-  "firstname": "LOKESH",
-  "lastname": "DHANASEKAR",
-  "address": [
-    "Av Guadalupe 4885, Jardines de Guadalupe",
-    "45030 Guadalajara, Jal., Mex"
-  ],
-  "mobile": "+52 3326541444",
-  "email": "dlokesh@outlook.com",
+  "name": {
+    "firstname": "Jabadurai",
+    "lastname": "Selvaraj"
+  },
+  "picture": {
+    "url": "https://cdn140.picsart.com/296515330208201.png",
+    "width": "220",
+    "height": "220"
+  },
+  "contact": {
+    "mobile": "+52 3329195711",
+    "email": "jabadurai.s@gmail.com",
+    "address": [
+      "Av Guadalupe 4885, Jardines de Guadalupe",
+      "45030 Guadalajara, Jal., Mex"
+    ]
+  },
   "summary": [
-    "Four plus years of experience as full stack developer in application development using J2EE and IBM ETL DataStage, while implementation, testing and troubleshooting.",
-    "Strong knowledge of technical specifications, workflow development and QA.",
-    "Participated in analyzing business requirements and recommending appropriate technologies.",
-    "Good experience in coordinating with various teams like Deployment, Testing Team to speed up Development process.",
-    "Proficient in communication, interpersonal and organizational skills."
+    "Having 8 years of professional software development and designing experience in the web application using various frameworks (Apache Struts, Spring, Servlets) in Java.",
+    "Have been Scrum Master of a development team with most successful sprints.",
+    "Equivalent 8 years of professional experience in Oracle programming, Designing Solutions, and Debugging.",
+    "Designed solutions for Continuous Integration & Continuous Delivery using various tools (Gradle, Gitlab CI and Urban Code Deploy).",
+    "Good Team Player with Excellent Technical & Interpersonal Skills."
   ],
   "professionalexperience": [
-    "HCL Technologies - Senior Software Engineer (February 2015 – Till Now)"
+    "HCL Technologies - Technical Lead (January 2017 – Till Now)",
+    "Infonovum Software & Consulting Pvt Ltd - Senior Software Engineer (December 2010 – January 2017)"
   ],
-  "natureofwork": "Developed JAVA application which process and monitor the activities performed in the process and load the file details in the database using various REST API’s.",
-  "rolesresponsibilities": [
-    "Developed complex applications and updates throughout SDLC, including analyzing business requirements, developing technical specifications, planning, coding, testing implementation and QA.",
-    "Participate in scoping meeting to identify requirement for new projects and reconfirm requirement with relevant stakeholders.",
-    "Analyzing the Existing code and involved in modifying various classes and methods according to the new business needs.",
-    "Created various REST API’s for GET and POST requests as per the Business requirements.",
-    "Created Database Objects like tables, Views as per the Business requirements.",
-    "Developed Dashboard using Ext JS which will retrieve the data from the database using REST API’s.",
-    "Involved in writing technical design document, Test cases and performed unit testing.",
-    "Supported project leads & project managers in preparation of project review deliverables (like project ppt, audit documents, etc.)."
-  ],
-  "project": [
-    "Title : AML - Customer Due Diligence",
-    "Technology Used : Java, IBM DataStage, REST API, SQL, PowerShell script",
-    "Framework : Ext JS, Wicket",
-    "IDE : Eclipse & IBM DataStage",
-    "Client : The United Services Automobile Association(USAA)",
-    "Database : Oracle 11g, DB2 and ERDC",
-    "Domain : AML and Bank",
-    "Operating System : Windows 7 & UNIX",
-    "Team Size : 3",
-    "Role : Developer",
-    "Description :"
-  ],
-  "projectdesc": [
-    "Created USAA net banking website which ask customer to answer the KYC details.",
-    "REST API’s are used to retrieve and update the data in database.",
-    "Handling ETL jobs all the extract, transformation and loading the data in more ways using IBM DataStage tool.",
-    "The file which is loaded from the PeopleSoft/ETL system to the input folder. To Monitor specify file in the input folder created PowerShell script which will triggered from the Control – M",
-    "Created various control – M jobs to automate the process."
+  "projects": [
+    {
+      "title": "USAA - Strategic Tax Solutions",
+      "priod": "January 2017 - Current",
+      "tools": "Eclipse, IBM Rational Team Concert, IBM RSA, GitLab, IBM Urban Code Deploy, JBoss, PL/SQL, Gradle",
+      "responsibilities": "User Interface creation using JSP/HTML, Designing pages using CSS, Solution Designing/Proposing, Technical user manual creation, Deployment of application",
+      "technologies": "Spring MVC, Spring Boot, REST, Gradle",
+      "teamsize": 10,
+      "role": "Technical Lead, Solution Designer, Developer (UI, Functional)",
+      "client": "https://www.usaa.com",
+      "summary": [
+        "We created three horizontal dependencies to serve all USAA products. This reduced the time/cost that we spent with the third-party and we were able to add multiple customized combination of tax solutions for various part of American states.",
+        "Designed multiple plugins for IBM Rational Team Concert (Reduced number of setups which required to start a Development Workspace).",
+        "Built plugins to cut the amount of time that needed setup local deployment server.",
+        "Built multiple process and plugins to cut down the number of steps that needed to get the software deployed using HCL Urban Code Deploy."
+      ]
+    },
+    {
+      "title": "Integrated Forfeiture Process",
+      "priod": "January 2016 - January 2017",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 8,
+      "role": "Scrum Master, Solution Designer, Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "On termination of the employee, awards and all portfolio share he holds on share system will go through the forfeiture process (He may get some amount of benefits if the company’s shared portfolio allows)."
+      ]
+    },
+    {
+      "title": "Integrated Payroll System",
+      "priod": "June 2015 - December 2015",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 7,
+      "role": "Scrum Master, Solution Designer, Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "Automated and On-Demand payroll process for all plans offering by EWMGlobal such as Deferred Cash, Share Plans, Carried Interest, Co-Investment, Rewards."
+      ]
+    },
+    {
+      "title": "Equity Shares Distribution",
+      "priod": "January 2015 - June 2015",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 6,
+      "role": "Scrum Master, Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "Distribution of equity shares includes Request placing module (Either by Employee or Employer), Tax calculation module (Tax per employee's global mobility), Bulk market order preparation, Settlement after distribution process, Communication of each stage to employee/administrator through emails"
+      ]
+    },
+    {
+      "title": "Administration of Equity Shares",
+      "priod": "April 2013 - January 2015",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 8,
+      "role": "Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "Administration of all currently available equity plan types, generally defined by the underlying equity instrument: Restricted Stock Units, Restricted Stock Award, Share Appreciation Rights, Phantom Shares, Option Plans, Stock Purchase Plans & Performance Share Plans.",
+        "This project became a huge success since EWM Global entered into this competitive business at right time with a flexible solution than the existing business competitors."
+      ]
+    },
+    {
+      "title": "Automated Data-load Framework",
+      "priod": "August 2012 - April 2013",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql], Hibernate",
+      "teamsize": 6,
+      "role": "Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "We created an automated data load framework which supports loading the variety of industry standard exchange file formats like EXCEL, TSV and CSV into client’s system tables with checks and validation as configured.",
+        "It became a horizontal dependency to support all EWMGlobal's applications."
+      ]
+    },
+    {
+      "title": "Administration of Deferred Compensation Plans",
+      "priod": "December 2010 - August 2012",
+      "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant",
+      "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
+      "technologies": "Struts, JSP, CSS, JavaScript, jQuery, Oracle [PL Sql]",
+      "teamsize": 6,
+      "role": "Developer (UI & Functional)",
+      "client": "https://www.ewmglobal.com",
+      "summary": [
+        "Built an application to administrate various Deferred Compensation plans such as: Private Equity plans, Carried Co-Invest plans, Cash Investment plans.",
+        "Have been in major part of application development including Web Pages Creation, Scheduled Batches Creation."
+      ]
+    }
   ],
   "academic": [
     {
@@ -62,7 +140,7 @@
       "gPA": "7.39"
     }
   ],
-  "achievement": [
+  "achievements": [
     "Proved event-organizing skills by taking responsibility in team events.",
     "Got many spot awards during the project development."
   ]
