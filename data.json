@@ -29,6 +29,22 @@
   ],
   "projects": [
     {
+      "title": "USAA - Anti Money Laundering System",
+      "priod": "January 2019 - Till Now",
+      "tools": "Eclipse, GitLab, IBM Urban Code Deploy, JBoss, PL/SQL, Gradle, Rundeck,  Nice Actimize",
+      "responsibilities": "IBM RTC Plugins creation using OSGI framework, Java based solutions and utilities to automate manual efforts handled by Service Desk team, User Interface creation using JSP/HTML, Designing pages using CSS, Solution Designing/Proposing, Technical user manual creation, Deployment of application",
+      "technologies": "Spring MVC, Spring Boot, REST, Gradle, OSGI",
+      "teamsize": 10,
+      "role": "Technical Lead, Solution Designer, Developer (UI, Functional)",
+      "client": "https://www.usaa.com",
+      "summary": [
+        "Created and maintained multiple admin/user based web applications to manage Source Control System applications under organization",
+        "Designed multiple plugins for IBM Rational Team Concert (Reduced number of setups which required to start a Development Workspace).",
+        "Built plugins to cut the amount of time that needed setup local deployment server.",
+        "Built multiple process and plugins to cut down the number of steps that needed to get the software deployed using HCL Urban Code Deploy."
+      ]
+    },
+    {
       "title": "USAA - IT Productivity Solutions",
       "priod": "January 2017 - January 2019",
       "tools": "Eclipse, IBM Rational Team Concert, IBM RSA, GitLab, IBM Urban Code Deploy, JBoss, PL/SQL, Gradle",
