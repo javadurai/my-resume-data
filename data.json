@@ -29,23 +29,23 @@
   ],
   "projects": [
     {
-      "title": "USAA - Strategic Tax Solutions",
-      "priod": "January 2017 - Current",
+      "title": "USAA - IT Productivity Solutions",
+      "priod": "January 2017 - January 2019",
       "tools": "Eclipse, IBM Rational Team Concert, IBM RSA, GitLab, IBM Urban Code Deploy, JBoss, PL/SQL, Gradle",
-      "responsibilities": "User Interface creation using JSP/HTML, Designing pages using CSS, Solution Designing/Proposing, Technical user manual creation, Deployment of application",
-      "technologies": "Spring MVC, Spring Boot, REST, Gradle",
+      "responsibilities": "IBM RTC Plugins creation using OSGI framework, Java based solutions and utilities to automate manual efforts handled by Service Desk team, User Interface creation using JSP/HTML, Designing pages using CSS, Solution Designing/Proposing, Technical user manual creation, Deployment of application",
+      "technologies": "Spring MVC, Spring Boot, REST, Gradle, OSGI",
       "teamsize": 10,
       "role": "Technical Lead, Solution Designer, Developer (UI, Functional)",
       "client": "https://www.usaa.com",
       "summary": [
-        "We created three horizontal dependencies to serve all USAA products. This reduced the time/cost that we spent with the third-party and we were able to add multiple customized combination of tax solutions for various part of American states.",
+        "Created and maintained multiple admin/user based web applications to manage Source Control System applications under organization",
         "Designed multiple plugins for IBM Rational Team Concert (Reduced number of setups which required to start a Development Workspace).",
         "Built plugins to cut the amount of time that needed setup local deployment server.",
         "Built multiple process and plugins to cut down the number of steps that needed to get the software deployed using HCL Urban Code Deploy."
       ]
     },
     {
-      "title": "Integrated Forfeiture Process",
+      "title": "Integrated Stock Forfeiture Process",
       "priod": "January 2016 - January 2017",
       "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
       "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
@@ -54,11 +54,11 @@
       "role": "Scrum Master, Solution Designer, Developer (UI & Functional)",
       "client": "https://www.ewmglobal.com",
       "summary": [
-        "On termination of the employee, awards and all portfolio share he holds on share system will go through the forfeiture process (He may get some amount of benefits if the company’s shared portfolio allows)."
+        "Customer is a banking and financial institution, who owns an Award Management system (As both Shares and Promises). On termination of an employee of customer, awards and all portfolio shares he hold till date on system has to go through the forfeiture process. The process follows a list of configurative forfeiture rules defined by the customer. The process is integrated along with the termination process to calculate the benefits the employee can enjoy after termination. This process is an automated process which finally settles the benefits of employee to Integrated Payroll System."
       ]
     },
     {
-      "title": "Integrated Payroll System",
+      "title": "Integrated Stock Payroll System",
       "priod": "June 2015 - December 2015",
       "tools": "Eclipse, Jenkins, Apache Tomcat, PL/SQL, Ant, Axure RP",
       "responsibilities": "User Interface creation using JSPs, Designing pages using CSS, Technical user manual creation, Deployment of application",
@@ -67,7 +67,7 @@
       "role": "Scrum Master, Solution Designer, Developer (UI & Functional)",
       "client": "https://www.ewmglobal.com",
       "summary": [
-        "Automated and On-Demand payroll process for all plans offering by EWMGlobal such as Deferred Cash, Share Plans, Carried Interest, Co-Investment, Rewards."
+        "Automated and On-Demand payroll process for all plans offering by customer such as Deferred Cash, Share Plans, Carried Interest, Co-Investment, Rewards."
       ]
     },
     {
